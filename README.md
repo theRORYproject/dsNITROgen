@@ -1,22 +1,22 @@
-ENGLISH:
+❤ ENGLISH:
 be sure to create a file 'nitrologs.txt' where the generation results will be saved
 
 
-Russian:
+❤ Russian:
 обязательно создайте файл nitrologs.txt, в котором будут сохранены результаты генерации
 
 
-Ukrainian:
+❤ Ukrainian:
 обов'язково створіть файл 'nitrologs.txt' туди зберігатимуться результати генерації
 
 
-Kazakh:
+❤ Kazakh:
 генерациялау нәтижелері сақталатын 'nitrologs.txt' файлын жасауды ұмытпаңыз
 
 
-French:
+❤ French:
 assurez-vous de créer un fichier 'nitrologs.txt' dans lequel les résultats de la génération seront enregistrés
 
 
-Italian:
+❤ Italian:
 assicurati di creare un file nitrologs.txt in cui verranno salvati i risultati della generazione
